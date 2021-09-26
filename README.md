@@ -17,3 +17,4 @@ For easy navigation the Github links of individual Notebooks are as below
 [Efficient Portfolios](https://github.com/HAN1T/PythonFinance/blob/main/Efficient%20Portfolios.ipynb)
 
 [Global Mean Variance Portfolios](https://github.com/HAN1T/PythonFinance/blob/main/Global%20Minimum%20Variance%20Portfolio%20(GMVP).ipynb)
+[Value at Risk (VaR)](https://github.com/HAN1T/PythonFinance/blob/main/Value%20At%20Risk%20(VAR).ipynb)
