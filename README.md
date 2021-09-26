@@ -4,7 +4,7 @@ This repository serves the purpose of documenting fundamentals of Financial Math
 
 For easy navigation the Github links of individual Notebooks are as below
 
-![Extracting Historical Stock Prices](https://github.com/HAN1T/PythonFinance/blob/main/MultipleStock_Prices.ipynb)
+[Extracting Historical Stock Prices](https://github.com/HAN1T/PythonFinance/blob/main/MultipleStock_Prices.ipynb)
 
 [Defining Trading Frequency](https://github.com/HAN1T/PythonFinance/blob/main/MultipleStockPrice_with_TradingFreq.ipynb)
 
