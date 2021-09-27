@@ -1,6 +1,6 @@
 # Python for Financial Mathematics
 
-This repository serves the purpose of documenting fundamentals of Financial Mathematics and comprises of Python Notebooks that illustrates basics on Efficient Portfolios, Global Mean Variance Portfolios, Backtesting and much more.
+This repository serves the purpose of documenting fundamentals of Financial Mathematics and comprises of Python Notebooks that illustrates basics on Efficient Portfolios, Global Mean Variance Portfolios, Value at Risk, Backtesting and much more.
 
 For easy navigation the Github links of individual Notebooks are as below
 
