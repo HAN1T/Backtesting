@@ -1,4 +1,4 @@
-# Python for Financial Mathematics
+# Quantitative Finance
 
 This repository serves the purpose of documenting fundamentals of Financial Mathematics and comprises of Python Notebooks that illustrates basics on Efficient Portfolios, Global Mean Variance Portfolios, Value at Risk, Backtesting and much more.
 
