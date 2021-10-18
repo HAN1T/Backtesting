@@ -12,6 +12,8 @@ For easy navigation the Github links of individual Notebooks are as below
 
 [Portfolio Stock Pick](https://github.com/HAN1T/Quantitative_Finance/blob/main/Stock%20Pick.ipynb)
 
+[Portfolio Allocation](https://github.com/HAN1T/Quantitative_Finance/blob/main/Position%20Allocation.ipynb) utilizing Volatility
+
 [Defining Trading Frequency](https://github.com/HAN1T/PythonFinance/blob/main/MultipleStockPrice_with_TradingFreq.ipynb)
 
 [Backtesting on Single Stock Portfolio](https://github.com/HAN1T/PythonFinance/blob/main/Backtest_SMA.ipynb)
