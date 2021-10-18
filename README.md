@@ -10,7 +10,7 @@ For easy navigation the Github links of individual Notebooks are as below
 
 [Investment Universe](https://github.com/HAN1T/Quantitative_Finance/blob/main/Universe500.ipynb)
 
-[Portfolio Stock Pick](https://github.com/HAN1T/Quantitative_Finance/blob/main/Stock%20Pick.ipynb)
+[Portfolio Stock Pick](https://github.com/HAN1T/Quantitative_Finance/blob/main/Stock%20Pick.ipynb) utilizing momentum
 
 [Portfolio Allocation](https://github.com/HAN1T/Quantitative_Finance/blob/main/Position%20Allocation.ipynb) utilizing Volatility
 
