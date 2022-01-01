@@ -21,8 +21,6 @@ class Financial_Analysis:
     def standard_deviation(self):
         pct_change = self.stock_data.pct_change()
         pct_change.dropna(inplace=True)
-        #mean = self.df['Close'].mean()
-        #np.std(self.df['Close'])
         std=pct_change.std()
         return std
 
