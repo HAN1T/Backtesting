@@ -11,6 +11,7 @@ import math
 
 
 class Financial_Analysis:
+    '''Class for the documentation of all the Statistical Analysis attributes'''
     def __init__(self, tk, start, end):
         self.tk = tk
         self.start = start
@@ -19,6 +20,7 @@ class Financial_Analysis:
         self.stock_data = pd.DataFrame(all_data['Adj Close'], columns=["Adj Close"])
         
     def standard_deviation(self):
+        '''std attribute of pandas module directly returns standard deviation of time series'''
         pct_change = self.stock_data.pct_change()
         pct_change.dropna(inplace=True)
         std=pct_change.std()
