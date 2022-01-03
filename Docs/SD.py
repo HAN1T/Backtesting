@@ -26,3 +26,8 @@ class Financial_Analysis:
         std=pct_change.std()
         return std
 
+    def volatility(self):
+        '''annualised volatility can be calculated by multiplying SD with the square root of time period
+        since our price data is daily, so root of 250, if was montly then root of 12''' 
+        volatility=self.standard_deviation()*math.sqrt(250)
+        return volatility
