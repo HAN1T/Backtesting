@@ -2,8 +2,6 @@ import math
 import pandas as pd
 from pandas_datareader import data as pdr
 
-
-
 class Financial_Analysis:
     '''Class for the documentation of all the Statistical Analysis attributes'''
     def __init__(self, tk, start, end):
