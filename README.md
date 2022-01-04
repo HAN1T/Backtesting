@@ -6,11 +6,11 @@ This repository serves the purpose of documenting fundamentals of Financial Math
 
 For easy navigation the Github links of individual Notebooks are as below
 
-[Black-Scholes Option Pricing Module](https://github.com/HAN1T/Quantitative_Finance/blob/main/Docs/BS_Options_Pricing.py)
+[Black-Scholes Option Pricing Module (Library)](https://github.com/HAN1T/Quantitative_Finance/blob/main/Docs/BS_Options_Pricing.py)
 
 [Black-Scholes Option Pricing Result](https://github.com/HAN1T/Quantitative_Finance/blob/main/Black-Scholes%20Option%20Pricing.ipynb)
 
-[Stock Volatility and Standard Deviation Module](https://github.com/HAN1T/Quantitative_Finance/blob/main/Docs/SD.py)
+[Stock Volatility and Standard Deviation Module (Library)](https://github.com/HAN1T/Quantitative_Finance/blob/main/Docs/SD.py)
 
 [Stock Volatility Result](https://github.com/HAN1T/Quantitative_Finance/blob/main/Stock%20Volatility.ipynb)
 
