@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 from SD import Financial_Analysis
 import math
@@ -10,10 +5,6 @@ import pandas as pd
 from pandas_datareader import data as pdr
 import numpy as np
 from scipy import stats
-
-
-# In[2]:
-
 
 class Option_Pricing:
     '''Class for the documentation of the Option Pricing methods
@@ -63,11 +54,3 @@ class Option_Pricing:
         '''Put price=X*exp(-r*T)*N(-d2) - S*N(-d1)'''
         put_price = float((self.X * np.exp(-self.r * self.T) * stats.norm.cdf(self.d2()*-1)) - (self.S * stats.norm.cdf(self.d1()*-1)))
         return put_price
-
-
-# In[3]:
-
-
-AAPL=Option_Pricing("AAPL",15,0.04,0.75, start="2016-01-01", end="2016-03-01")
-AAPL.call_price()
-
