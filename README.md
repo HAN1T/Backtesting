@@ -1,6 +1,6 @@
 # Quantitative Finance
 
-This repository serves the purpose of documenting fundamentals of Financial Mathematics and comprises of Python Notebooks that illustrates basics of Options Pricing, Security Standard Deviation, Stock Volatility, Investment Universe, Portfolio Stock Pick, Portfolio Allocation, Backtesting, Efficient Portfolios, Global Mean Variance Portfolios, Value at Risk, and much more.
+This repository serves the purpose of documenting fundamentals of Financial Mathematics and comprises of Python Notebooks that illustrates basics of Security Standard Deviation, Stock Volatility, Investment Universe, Portfolio Stock Pick, Portfolio Allocation, Backtesting, Efficient Portfolios, Global Mean Variance Portfolios, Value at Risk, and much more.
 
 **Disclaimer: This repository is for educational purpose only, it is a compilation of author’s knowledge base of python and its application in Financial Mathematics, the author do not by any means is suggesting or providing investment ideas or information and it is at the discretion of the reader to use the scripts on her/ his own risk.** 
 
