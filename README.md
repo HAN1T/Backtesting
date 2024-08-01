@@ -8,9 +8,9 @@ For easy navigation the Github links of individual Notebooks are as below
 
 **Quantitative Finance Trading Strategy**
 
-[Single Stock SMA based Trading Strategy](https://github.com/HAN1T/PythonFinance/blob/main/Backtest_SMA.ipynb)
+[Single Stock Seasonality based Trading Strategy Backtest](https://github.com/HAN1T/Quantitative_Finance/blob/main/Seasonal_Trading_Analysis_SingleStock.ipynb)
 
-[Single Stock Seasonality based Trading Strategy](https://github.com/HAN1T/Quantitative_Finance/blob/main/Seasonal_Trading_Analysis_SingleStock.ipynb)
+[Single Stock SMA based Trading Strategy Backtest](https://github.com/HAN1T/PythonFinance/blob/main/Backtest_SMA.ipynb)
 
 [Momentum based Trading Strategy Backtest](https://github.com/HAN1T/Quantitative_Finance/blob/main/Portfolio%20Return.ipynb)
 
